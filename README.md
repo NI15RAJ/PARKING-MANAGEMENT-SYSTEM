@@ -2,7 +2,7 @@
 
 > A simple and efficient web-based system to manage parking slots, vehicle entry/exit, and availability in real-time.
 
-**🔗 Live Demo:** [https://ni15raj.github.io/Parking-Management-System](https://ni15raj.github.io/Parking-Management-System)
+**🔗 Live Demo:** [https://ni15raj.github.io/PARKING-MANAGEMENT-SYSTEM](https://ni15raj.github.io/PARKING-MANAGEMENT-SYSTEM)
 
 ---
 
