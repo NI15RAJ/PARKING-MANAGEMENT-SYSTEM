@@ -4,14 +4,6 @@
 
 **🔗 Live Demo:** [https://ni15raj.github.io/PARKING-MANAGEMENT-SYSTEM](https://ni15raj.github.io/PARKING-MANAGEMENT-SYSTEM)
 
----
-
-## 📸 Preview
-
-![Parking Management Screenshot](https://via.placeholder.com/800x400?text=Parking+Management+App)
-<!-- Replace with actual screenshot URL if available -->
-
----
 
 ## ✨ Features
 
